@@ -1,6 +1,6 @@
 import "./App.css";
-import Buttons from "./assets/components/Buttons";
-import Images from "./assets/components/Images";
+import Buttons from "./components/Buttons";
+import Images from "./components/Images";
 import fotoreact from "./assets/img/fotoreact.jpg";
 
 const App = function () {
