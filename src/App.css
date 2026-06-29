@@ -5,3 +5,9 @@
   height: auto;
   margin: 0 auto;
 }
+
+.btn {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+}
